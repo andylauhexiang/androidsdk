@@ -44,4 +44,12 @@
       <scope>compile</scope>
     </dependency>
   </dependencies>
+
+<repositories>
+   <repository>
+      <id>sdk</id>
+      <url>https://raw.githubusercontent.com/andylauhexiang/androidsdk/main/</url>
+   </repository>
+</repositories>
+
 </project>
